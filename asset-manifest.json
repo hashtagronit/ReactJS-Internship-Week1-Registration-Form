@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Internship-Week1-Registration-Form/static/css/main.31d79b04.css",
+    "main.js": "/ReactJS-Internship-Week1-Registration-Form/static/js/main.cb96119c.js",
+    "index.html": "/ReactJS-Internship-Week1-Registration-Form/index.html",
+    "main.31d79b04.css.map": "/ReactJS-Internship-Week1-Registration-Form/static/css/main.31d79b04.css.map",
+    "main.cb96119c.js.map": "/ReactJS-Internship-Week1-Registration-Form/static/js/main.cb96119c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d79b04.css",
+    "static/js/main.cb96119c.js"
+  ]
+}
