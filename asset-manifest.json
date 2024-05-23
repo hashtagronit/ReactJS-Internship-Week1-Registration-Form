@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ReactJS-Internship-Week1-Registration-Form/static/css/main.31d79b04.css",
-    "main.js": "/ReactJS-Internship-Week1-Registration-Form/static/js/main.cb96119c.js",
-    "index.html": "/ReactJS-Internship-Week1-Registration-Form/index.html",
-    "main.31d79b04.css.map": "/ReactJS-Internship-Week1-Registration-Form/static/css/main.31d79b04.css.map",
-    "main.cb96119c.js.map": "/ReactJS-Internship-Week1-Registration-Form/static/js/main.cb96119c.js.map"
+    "main.css": "/my-form-app/static/css/main.31d79b04.css",
+    "main.js": "/my-form-app/static/js/main.cb96119c.js",
+    "index.html": "/my-form-app/index.html",
+    "main.31d79b04.css.map": "/my-form-app/static/css/main.31d79b04.css.map",
+    "main.cb96119c.js.map": "/my-form-app/static/js/main.cb96119c.js.map"
   },
   "entrypoints": [
     "static/css/main.31d79b04.css",
