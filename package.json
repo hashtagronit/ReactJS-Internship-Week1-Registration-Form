@@ -1,6 +1,6 @@
 {
-  "name": "ReactJS-Internship-Week1-Registration-Form",
-  "homepage": "https://hashtagronit.github.io/ReactJS-Internship-Week1-Registration-Form",
+  "name": "my-form-app",
+  "homepage": "https://hashtagronit.github.io/my-form-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
